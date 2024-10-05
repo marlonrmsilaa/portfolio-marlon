@@ -6,7 +6,7 @@
 }
 
 body {
-    background: linear-gradient(to right, #3737ef, #1cb5e0); 
+    background-color: rgb(251, 251, 251);
     font-family: 'Poppins', sans-serif;
 }
 
@@ -304,6 +304,7 @@ img {
 }
 
 .text-container {
+    color: black;
     margin: 5px;
     padding: 10px
 }
